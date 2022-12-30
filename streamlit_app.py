@@ -103,7 +103,7 @@ def download_file(file_path):
 IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
-    "perumixed3.pkl": {
+    "lobster_cws_1.pkl": {
         "url": "https://www.dropbox.com/s/qf53budr0txpk1y/lobster_cws_1.pkl?dl=1",
         "size": 179199077
     }
